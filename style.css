@@ -1,0 +1,21 @@
+.img {
+    height: 300px;
+}
+
+.movie_head {
+    font-size: 15px;
+    padding: 6px 22px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
